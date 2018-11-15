@@ -11,6 +11,7 @@ public abstract class AbstractPresent<V extends IBaseView> {
         this.mView=view;
     }
 
+
     /**
      * 解除绑定v层
      */
